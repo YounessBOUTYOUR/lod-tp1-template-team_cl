@@ -1,0 +1,22 @@
+record_id,institution_name,short_name,city,country,website,institution_type,main_field,year_created,portal_hint
+1,Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes,ENSIAS,Rabat,Morocco,https://www.ensias.um5.ac.ma,public school,computer science,1992,data.gov.ma
+2,Ecole Mohammadia d'Ingenieurs,EMI,Rabat,Morocco,https://www.emi.ac.ma,public school,engineering,1959,data.gov.ma
+3,Faculte des Sciences Rabat,FSR,Rabat,Morocco,https://fsr.um5.ac.ma,faculty,science,1958,data.gov.ma
+4,Universite Mohammed V in Rabat,UM5,Rabat,Morocco,https://www.um5.ac.ma,university,multidisciplinary,1957,data.gov.ma
+5,National School of Applied Sciences Kenitra,ENSA Kenitra,Kenitra,Morocco,https://ensa.uit.ac.ma,engineering school,applied sciences,2008,data.gov.ma
+6,Abdelmalek Essaadi University,UAE,Tetouan,Morocco,https://www.uae.ac.ma,university,multidisciplinary,1989,data.gov.ma
+7,Cadi Ayyad University,UCA,Marrakesh,Morocco,https://www.uca.ma,university,multidisciplinary,1978,data.gov.ma
+8,Ecole Hassania des Travaux Publics,EHTP,Casablanca,Morocco,https://www.ehtp.ac.ma,engineering school,civil engineering,1971,data.gov.ma
+9,Universite Hassan II de Casablanca,UH2C,Casablanca,Morocco,https://www.univh2c.ma,university,multidisciplinary,1975,data.gov.ma
+10,Universite Ibn Tofail,UIT,Kenitra,Morocco,https://www.uit.ac.ma,university,multidisciplinary,1989,data.gov.ma
+11,Universite Sidi Mohamed Ben Abdellah,USMBA,Fes,Morocco,https://www.usmba.ac.ma,university,multidisciplinary,1975,data.gov.ma
+12,Universite Ibn Zohr,UIZ,Agadir,Morocco,https://www.uiz.ac.ma,university,multidisciplinary,1989,data.gov.ma
+13,Universite Chouaib Doukkali,UCD,El Jadida,Morocco,https://www.ucd.ac.ma,university,multidisciplinary,1985,data.gov.ma
+14,Universite Sultan Moulay Slimane,USMS,Beni Mellal,Morocco,https://www.usms.ac.ma,university,multidisciplinary,2007,data.gov.ma
+15,Universite Moulay Ismail,UMI,Meknes,Morocco,https://www.umi.ac.ma,university,multidisciplinary,1989,data.gov.ma
+16,Universite Mohammed Premier,UMP,Oujda,Morocco,https://www.ump.ma,university,multidisciplinary,1978,data.gov.ma
+17,Universite Hassan 1er,UH1,Settat,Morocco,https://www.uh1.ac.ma,university,multidisciplinary,1997,data.gov.ma
+18,Institut National des Postes et Telecommunications,INPT,Rabat,Morocco,https://www.inpt.ac.ma,public school,telecommunications,1961,data.gov.ma
+19,Institut National de Statistique et d'Economie Appliquee,INSEA,Rabat,Morocco,https://www.insea.ac.ma,public school,data science,1961,data.gov.ma
+20,Institut Agronomique et Veterinaire Hassan II,IAV Hassan II,Rabat,Morocco,https://www.iav.ac.ma,public institute,agronomy,1966,data.gov.ma
+21,Ecole Nationale de l'Industrie Minerale,ENIM,Rabat,Morocco,https://www.enim.ac.ma,engineering school,mining engineering,1972,data.gov.ma
